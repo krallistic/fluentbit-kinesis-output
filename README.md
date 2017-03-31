@@ -1,0 +1,1 @@
+# fluentbit-kinesis-output
